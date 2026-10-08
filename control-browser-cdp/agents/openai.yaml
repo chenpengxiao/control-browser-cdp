@@ -1,0 +1,4 @@
+interface:
+  display_name: "CDP Browser Control"
+  short_description: "Persistent concurrent browser control over CDP"
+  default_prompt: "Use $control-browser-cdp to connect once and control the current Chromium browser through the persistent CDP proxy."
